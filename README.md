@@ -1,4 +1,3 @@
-# My Git Learning Project
+## What I am learning
 
-I am learning Git and GitHub.
-This is my first Git project.
+I am learning Git and GitHub hands-on.
